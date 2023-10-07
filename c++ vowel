@@ -1,0 +1,10 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+	char a;
+	for(a='a';a<='z';a++)
+	{if(a=='a'||a=='e'||a=='i'||a=='o'||a=='u')
+	{cout<<a<<" ";}}
+	getch();}
+	
